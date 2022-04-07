@@ -1,5 +1,7 @@
 # Pirates #
 
+*It's analogue of Sea of thevies.*
+
 I making this game because analogue - Sea of thevies was blocked in Russia
 
 ***
